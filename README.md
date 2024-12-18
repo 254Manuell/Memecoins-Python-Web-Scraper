@@ -78,10 +78,12 @@ Ensure you have the following installed:
 Below are screenshots showcasing the application's features:
 
 ### Meme Template Library
-![Meme Library](images/meme-library.png)
+![image](https://github.com/user-attachments/assets/a7d67690-6265-4381-b377-50033b000b0b)
+
 
 ### Customization Panel
-![Customization](images/customization-panel.png)
+![image](https://github.com/user-attachments/assets/b63b5f11-3e3c-4768-a4c8-48effee83506)
+
 
 ---
 
